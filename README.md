@@ -1,43 +1,24 @@
+# Smsbomber Telegram Bot - Your Ultimate SMS Bombing Tool
 
-#Smsbomber telegram bot
-
-This bot can provide you Smsbomber features using api requests
-
-
-
-
+Looking for a powerful SMS bombing tool? Meet Smsbomber, your Telegram bot that leverages API requests to provide seamless SMS bombing capabilities. Perfect for stress testing and verification scenarios.
 
 ## Requirements
 
+To get started, ensure you have all the necessary dependencies installed:
 
-You can Install requirements using
 ```sh
 pip install -r requirements.txt
-```
+Usage
+Follow these steps to set up your bot:
 
+Open Telegram and search for '@BotFather'.
+Use the command /newbot to create a new bot.
+Provide a name and username for your bot, and you'll receive your API key.
+Add the API key to main.py on line 1.
+Run your bot with the following command:
+sh
+Copy code
+python main.py
+To keep your bot running continuously, host it on Railway.app. Check the usage instructions for different branches.
 
- 
-
-## Usage
-
-To get you bot Api Key
-
-1. Go to Telegram app and search '@BotFather' 
-
-2. Click on /newbot
-
-3. Give your bot a name and a username and your Done!
-
-4. Add your api key in main.py on line 1
-
-```bash
-    python main.py
-```
-
-
-<br>
-
-To run this Bot permanently Host it on 
-https://railway.app/
-
-change branch and check the usage provided for each branch
+Enhance your SMS bombing experience with the Smsbomber Telegram Bot today!
